@@ -1,0 +1,4 @@
+server:
+  port: 9000 # 服务绑定的端口，不写默认是8080
+  servlet:
+    context-path: /demo # 服务的路径，不写默认为空

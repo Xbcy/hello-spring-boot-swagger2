@@ -13,7 +13,7 @@ import springfox.documentation.service.ApiInfo;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 
-// 访问swagger2: http://localhost:8080/doc.html
+// 访问swagger2: http://localhost:9000/demo/doc.html
 @Configuration
 public class SwaggerConfig {
 
